@@ -22,3 +22,8 @@ h3 {
   color: #1F2410;
   font-style: normal;
 }
+img {
+  width: 600px;
+  float: right;
+  padding-right: 50px;
+}
